@@ -3,7 +3,24 @@
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    padding-top: 100px;
-    padding-bottom: 781px;
+    /* padding-top: 50px;
+    padding-bottom: 781px; */
 
+}
+
+form {
+    height: 2000px;
+    width: 400px;
+    margin-left: 800px;
+    margin-top: 300px;
+}
+.loginBtn{
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: aqua;
+    color: rgb(0,0,0);
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 80px;
 }
